@@ -1,0 +1,15 @@
+current directory: /Users/kawakamiyuujin/camp/journal_site/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+/Users/kawakamiyuujin/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20180315-45751-mi6gn4.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kawakamiyuujin/camp/journal_site/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/kawakamiyuujin/camp/journal_site/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/kawakamiyuujin/camp/journal_site/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20180315-45751-1w4dqjn/bindex

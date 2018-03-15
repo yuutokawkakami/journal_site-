@@ -1,0 +1,19 @@
+current directory: /Users/kawakamiyuujin/camp/journal_site/vendor/bundle/ruby/2.5.0/gems/byebug-10.0.0/ext/byebug
+/Users/kawakamiyuujin/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20180315-45751-1by68k1.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kawakamiyuujin/camp/journal_site/vendor/bundle/ruby/2.5.0/gems/byebug-10.0.0/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/kawakamiyuujin/camp/journal_site/vendor/bundle/ruby/2.5.0/gems/byebug-10.0.0/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/kawakamiyuujin/camp/journal_site/vendor/bundle/ruby/2.5.0/gems/byebug-10.0.0/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20180315-45751-1aug1ah/byebug
